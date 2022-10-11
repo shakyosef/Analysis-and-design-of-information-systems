@@ -1,0 +1,299 @@
+c:\users\shirzaro\source\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+c:\users\shirzaro\source\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+c:\users\shirzaro\source\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+c:\users\shirzaro\source\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+c:\users\shirzaro\source\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+c:\users\shirzaro\source\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+c:\users\shirzaro\source\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+c:\users\shirzaro\source\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+c:\users\shirzaro\source\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.MAIN_FORM.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+S:\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+S:\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+S:\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+S:\progect\repos\ourproject\ourproject\bin\Debug\Form9.resx
+S:\progect\repos\ourproject\ourproject\bin\Debug\Form9.cs
+S:\progect\repos\ourproject\ourproject\bin\Debug\Form9.Designer.cs
+S:\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\bin\Debug\Form9.resx
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\bin\Debug\Form9.cs
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\bin\Debug\Form9.Designer.cs
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form10.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form11.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form12.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form13.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form14.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form15.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\shirzaro\Desktop\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\shirzaro\Downloads\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\shirzaro\Downloads\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\shirzaro\Downloads\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form10.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form11.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form12.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form13.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form14.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form15.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form21.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form22.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form23.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form24.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form25.resources
+C:\Users\ayalatub\Desktop\שקד 56 ספקעם\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form26.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form10.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form11.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form12.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form13.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form14.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form15.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form21.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form22.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form23.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form24.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form25.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form26.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\Form9.resx
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\Form9.cs
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\Form9.Designer.cs
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+C:\Users\shirzaro\Desktop\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form21.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form22.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form23.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form24.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form25.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form26.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form27.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form28.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form1.resources
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.resx
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.cs
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.Designer.cs
+C:\Users\shirzaro\Desktop\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form9.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.resx
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.cs
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.Designer.cs
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form9.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form1.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form21.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form22.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form23.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form24.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form25.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form26.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form27.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form28.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\shirzaro\Downloads\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.resx
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.cs
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.Designer.cs
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form9.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form1.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form21.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form22.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form23.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form24.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form25.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form26.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form27.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form28.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\ayalatub\Desktop\שקדתיקוניםקטנים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.resx
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.cs
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.Designer.cs
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form9.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form1.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form21.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form22.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form23.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form24.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form25.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form26.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form27.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form28.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\shirzaro\Downloads\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.resx
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.cs
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\משאבי אנוש דף.Designer.cs
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe.config
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.exe
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\bin\Debug\ourproject.pdb
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csprojAssemblyReference.cache
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form9.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form1.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form2.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form16.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form17.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form19.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form20.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form21.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form22.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form23.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form24.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form25.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form26.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form27.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form28.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form3.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form4.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form5.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form6.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form7.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form8.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Form_employee.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.Properties.Resources.resources
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.GenerateResource.cache
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.csproj.CoreCompileInputs.cache
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.exe
+C:\Users\ayalatub\Desktop\בצפיה בעובד הקוד\חלונות מסודרים\חלונות מסודרים\8.6\7.6\פרויקט עם כל החלונות\פרויקט עם כל החלונות\progect\progect\repos\ourproject\ourproject\obj\Debug\ourproject.pdb

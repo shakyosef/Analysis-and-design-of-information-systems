@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B7401B0-A515-4EBF-8C22-EC1986237E84}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ourproject</RootNamespace>
+    <AssemblyName>ourproject</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="category.cs" />
+    <Compile Include="color.cs" />
+    <Compile Include="compensationcomplaint.cs" />
+    <Compile Include="Complaint.cs" />
+    <Compile Include="Complaintfroms.cs" />
+    <Compile Include="customer.cs" />
+    <Compile Include="CustomerServiceClerck.cs" />
+    <Compile Include="Customerservicedirector.cs" />
+    <Compile Include="Designer.cs" />
+    <Compile Include="discount.cs" />
+    <Compile Include="fabric.cs" />
+    <Compile Include="Financedirectors.cs" />
+    <Compile Include="מחיקת עובד.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="מחיקת עובד.Designer.cs">
+      <DependentUpon>מחיקת עובד.cs</DependentUpon>
+    </Compile>
+    <Compile Include="שליחת מייל תלונה על ספק.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="שליחת מייל תלונה על ספק.Designer.cs">
+      <DependentUpon>שליחת מייל תלונה על ספק.cs</DependentUpon>
+    </Compile>
+    <Compile Include="מסך ראשי.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="מסך ראשי.Designer.cs">
+      <DependentUpon>מסך ראשי.cs</DependentUpon>
+    </Compile>
+    <Compile Include="דף שירות לקוחות.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="דף שירות לקוחות.Designer.cs">
+      <DependentUpon>דף שירות לקוחות.cs</DependentUpon>
+    </Compile>
+    <Compile Include="תלונות מסובכות .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="תלונות מסובכות .Designer.cs">
+      <DependentUpon>תלונות מסובכות .cs</DependentUpon>
+    </Compile>
+    <Compile Include="מסך מנהל תפעול.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="מסך מנהל תפעול.Designer.cs">
+      <DependentUpon>מסך מנהל תפעול.cs</DependentUpon>
+    </Compile>
+    <Compile Include="חוזי ספקים.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="חוזי ספקים.Designer.cs">
+      <DependentUpon>חוזי ספקים.cs</DependentUpon>
+    </Compile>
+    <Compile Include="כל החוזים.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="כל החוזים.Designer.cs">
+      <DependentUpon>כל החוזים.cs</DependentUpon>
+    </Compile>
+    <Compile Include="חוזים שעומדים להסתיים חודש הבא.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="חוזים שעומדים להסתיים חודש הבא.Designer.cs">
+      <DependentUpon>חוזים שעומדים להסתיים חודש הבא.cs</DependentUpon>
+    </Compile>
+    <Compile Include="חוזים שנגמרו.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="חוזים שנגמרו.Designer.cs">
+      <DependentUpon>חוזים שנגמרו.cs</DependentUpon>
+    </Compile>
+    <Compile Include="יצרת מנהל שירות לקוחות.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="יצרת מנהל שירות לקוחות.Designer.cs">
+      <DependentUpon>יצרת מנהל שירות לקוחות.cs</DependentUpon>
+    </Compile>
+    <Compile Include="שליחת קוד קופון לפיצוי ללקוח.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="שליחת קוד קופון לפיצוי ללקוח.Designer.cs">
+      <DependentUpon>שליחת קוד קופון לפיצוי ללקוח.cs</DependentUpon>
+    </Compile>
+    <Compile Include="דוח דירוגי נציגי שירות.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="דוח דירוגי נציגי שירות.Designer.cs">
+      <DependentUpon>דוח דירוגי נציגי שירות.cs</DependentUpon>
+    </Compile>
+    <Compile Include="כניסה למערכת מנהל תפעול.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="כניסה למערכת מנהל תפעול.Designer.cs">
+      <DependentUpon>כניסה למערכת מנהל תפעול.cs</DependentUpon>
+    </Compile>
+    <Compile Include="כניסה למערכת מנהל תפעול לקוחות.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="כניסה למערכת מנהל תפעול לקוחות.Designer.cs">
+      <DependentUpon>כניסה למערכת מנהל תפעול לקוחות.cs</DependentUpon>
+    </Compile>
+    <Compile Include="יצירת עובד חדש.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="יצירת עובד חדש.Designer.cs">
+      <DependentUpon>יצירת עובד חדש.cs</DependentUpon>
+    </Compile>
+    <Compile Include="יצירת מעצבנת.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="יצירת מעצבנת.Designer.cs">
+      <DependentUpon>יצירת מעצבנת.cs</DependentUpon>
+    </Compile>
+    <Compile Include="יצירת מנהל תפעול.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="יצירת מנהל תפעול.Designer.cs">
+      <DependentUpon>יצירת מנהל תפעול.cs</DependentUpon>
+    </Compile>
+    <Compile Include="יצירת נציג שירות.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="יצירת נציג שירות.Designer.cs">
+      <DependentUpon>יצירת נציג שירות.cs</DependentUpon>
+    </Compile>
+    <Compile Include="חיפוש עובד.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="חיפוש עובד.Designer.cs">
+      <DependentUpon>חיפוש עובד.cs</DependentUpon>
+    </Compile>
+    <Compile Include="עידכון עובד.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="עידכון עובד.Designer.cs">
+      <DependentUpon>עידכון עובד.cs</DependentUpon>
+    </Compile>
+    <Compile Include="משאבי אנוש דף.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="משאבי אנוש דף.Designer.cs">
+      <DependentUpon>משאבי אנוש דף.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="operationdirector.cs" />
+    <Compile Include="PatternMaking.cs" />
+    <Compile Include="product.cs" />
+    <Compile Include="..\..\..\..\..\..\..\..\..\..\..\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+    <Compile Include="Rate.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SAD_6DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_6DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="size.cs" />
+    <Compile Include="SQL_CON.cs" />
+    <Compile Include="status.cs" />
+    <Compile Include="statusOrder.cs" />
+    <Compile Include="Supplier.cs" />
+    <EmbeddedResource Include="מחיקת עובד.resx">
+      <DependentUpon>מחיקת עובד.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="שליחת מייל תלונה על ספק.resx">
+      <DependentUpon>שליחת מייל תלונה על ספק.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="מסך ראשי.resx">
+      <DependentUpon>מסך ראשי.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="דף שירות לקוחות.resx">
+      <DependentUpon>דף שירות לקוחות.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="תלונות מסובכות .resx">
+      <DependentUpon>תלונות מסובכות .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="מסך מנהל תפעול.resx">
+      <DependentUpon>מסך מנהל תפעול.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="חוזי ספקים.resx">
+      <DependentUpon>חוזי ספקים.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="כל החוזים.resx">
+      <DependentUpon>כל החוזים.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="חוזים שעומדים להסתיים חודש הבא.resx">
+      <DependentUpon>חוזים שעומדים להסתיים חודש הבא.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="חוזים שנגמרו.resx">
+      <DependentUpon>חוזים שנגמרו.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="יצרת מנהל שירות לקוחות.resx">
+      <DependentUpon>יצרת מנהל שירות לקוחות.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="שליחת קוד קופון לפיצוי ללקוח.resx">
+      <DependentUpon>שליחת קוד קופון לפיצוי ללקוח.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="דוח דירוגי נציגי שירות.resx">
+      <DependentUpon>דוח דירוגי נציגי שירות.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="כניסה למערכת מנהל תפעול.resx">
+      <DependentUpon>כניסה למערכת מנהל תפעול.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="כניסה למערכת מנהל תפעול לקוחות.resx">
+      <DependentUpon>כניסה למערכת מנהל תפעול לקוחות.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="יצירת עובד חדש.resx">
+      <DependentUpon>יצירת עובד חדש.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="יצירת מעצבנת.resx">
+      <DependentUpon>יצירת מעצבנת.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="יצירת מנהל תפעול.resx">
+      <DependentUpon>יצירת מנהל תפעול.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="יצירת נציג שירות.resx">
+      <DependentUpon>יצירת נציג שירות.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="חיפוש עובד.resx">
+      <DependentUpon>חיפוש עובד.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="עידכון עובד.resx">
+      <DependentUpon>עידכון עובד.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="משאבי אנוש דף.resx">
+      <DependentUpon>משאבי אנוש דף.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SAD_6DataSet.xsc">
+      <DependentUpon>SAD_6DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_6DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_6DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_6DataSet.xss">
+      <DependentUpon>SAD_6DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-06-03 at 09.18.36.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\רגיל.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
